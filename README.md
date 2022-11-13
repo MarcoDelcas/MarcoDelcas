@@ -1,14 +1,23 @@
-### Hi!! THERE 👋🏽
+# print ("Hi!! THERE 👋🏽")
 
 ---
-My name is Marco Antonio. I am a student. I really want to learn to program.
-📚🖥
+Hi, my name is Marco Antonio, Software Engineer Student, I'm 19 years old
+
+- I'm currently studying for a degree in Benemerita Universidad Autonoma de Puebla.
+- I try to build websites and create APIs.
+- I like writing code.
+
+🖥  📚 🇲🇽 🕹️ 
 ---
 
-Description
- - ocupation = 'Student'.
- - code = 'Python', 'JavaScript', 'Java'.
- - area = 'Program'.
+```python
+marco_antonio = {
+    "code": ['Python','C++', 'Java', 'JavaScript'], 
+    "tools": ['Flask', 'Tkinter', 'Django', 'Node','Mysql'],
+    "areas": [ 'Product','Backend'],
+    "phrase" : "Why is java difficult?"
+}
+print(marco_antonio)
+```
 
-🕹From Marco Delcas
-# MarcoDelcas
+# 📍Puebla, México
